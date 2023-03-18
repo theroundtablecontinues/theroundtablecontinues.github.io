@@ -1,0 +1,23 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "People"
+  weight = 300
+  identifier = "people"
+  url = "/people/"
+
+  [[main]]
+  name = "GDC 2023"
+  weight = 300
+  identifier = "gdc23"
+  url = "/gdc23/"
