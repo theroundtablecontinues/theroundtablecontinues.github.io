@@ -14,9 +14,8 @@ Let's work on something together soon, and keep the conversations going!
 ![Roundtable Conversation](/images/roundtable-conversation.png)
 
 
-[Dr. Bret Staudt Willet]: https://bretsw.com/
-[news]: /posts
 [Game Developers Conference 2023]: https://gdconf.com/
+[The Roundtable Continues]: /
 [GDC23]: /gdc23
-[@ERSOgroup]: https://twitter.com/ERSOgroup
+[news]: /posts
 [email]: mailto:bret.staudt.willet@gmail.com

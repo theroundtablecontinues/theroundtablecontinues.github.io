@@ -8,19 +8,6 @@ Categories: []
 DisableComments: true
 ---
 
-## Dr. Bret Staudt Willet
-
-<img src="/images/bretsw.jpg" width="240px" alt="Headshot of Dr. Bret Staudt Willet">
-
-Bret Staudt Willet, Ph.D., is an Assistant Professor of Instructional Systems & Learning Technologies at Florida State University.
-
-Bret's research investigates **self-directed networked learning**. He is most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do after they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
-
-[{{< fa globe >}} Website](https://bretsw.com) | 
-[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/)
-
----
-
 ## Carl Varnado
 
 <img src="/images/carl-varnado.jpg" width="240" alt="Headshot of Carl Varnado">
@@ -34,6 +21,20 @@ Carl is dedicated to increasing African American participation and influence in 
 In his spare time, Mr. Varnado writes screenplays and designs video games. His upcoming projects "Black Dragon" and "The Last MC" will be released exclusively on Knarrative soon.
 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/cvarnado/)
+
+---
+
+## Dennis Mathews
+
+<img src="/images/dennis-mathews.jpg" width="240" alt="Headshot of Dennis Mathews">
+
+Dennis Mathews is the Founder and CEO of Revelation Interactive and CTO at Codicast Interactive. He was mentioned as 1 of the top 10 African American game developers by Black Enterprise. Dennis is an avid programmer and has been programming for over 20+ years for games, websites, hardware, and custom business applications. 
+
+In this Special Interest Group (SIG), Dennis has spoken on various topics ranging from outreach, education, and inclusion in the game industry. He is on Black in Gaming’s executive leadership team, which strives to demystify the video gaming industry for people of color. 
+
+Dennis was mentioned as one of the top 10 African American game developers in 2016 by Black Enterprise. Taking the success, he has had in software development, he is currently working on developing games in the augmented/virtual reality game, casual game, and mobile application markets.
+
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/dennis-mathews-6284401/)
 
 ---
 
@@ -62,16 +63,15 @@ Cornell Wright goes far beyond fixing technology problems arising from computer 
 
 ---
 
-## Dennis Mathews
+## Dr. Bret Staudt Willet
 
-<img src="/images/dennis-mathews.jpg" width="240" alt="Headshot of Dennis Mathews">
+<img src="/images/bretsw.jpg" width="240px" alt="Headshot of Dr. Bret Staudt Willet">
 
-Dennis Mathews is the Founder and CEO of Revelation Interactive and CTO at Codicast Interactive. He was mentioned as 1 of the top 10 African American game developers by Black Enterprise. Dennis is an avid programmer and has been programming for over 20+ years for games, websites, hardware, and custom business applications. 
+Bret Staudt Willet, Ph.D., is an Assistant Professor of Instructional Systems & Learning Technologies at Florida State University.
 
-In this Special Interest Group (SIG), Dennis has spoken on various topics ranging from outreach, education, and inclusion in the game industry. He is on Black in Gaming’s executive leadership team, which strives to demystify the video gaming industry for people of color. 
+Bret's research investigates **self-directed networked learning**. He is most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do after they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
 
-Dennis was mentioned as one of the top 10 African American game developers in 2016 by Black Enterprise. Taking the success, he has had in software development, he is currently working on developing games in the augmented/virtual reality game, casual game, and mobile application markets.
-
-[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/dennis-mathews-6284401/)
+[{{< fa globe >}} Website](https://bretsw.com) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/)
 
 ---
