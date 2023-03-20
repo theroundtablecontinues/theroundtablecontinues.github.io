@@ -1,18 +1,18 @@
-$accent--lightmode: #defcff; /*light gold*/
-$primary--lightmode: #464646; /*dark gray*/
-$primary-light--lightmode: #9f9f9f; /*gray*/
-$primary-lighter--lightmode: #eeeeee; /*light gray*/
+$accent--lightmode: #ffffff;
+$primary--lightmode: #000; /*dark gray*/
+$primary-light--lightmode: #464646; /*gray*/
+$primary-lighter--lightmode: #ffffff; /*light gray*/
 $shadow--lightmode: 0 8px 16px rgba(10, 10, 10, 0.1);
 
 $accent--darkmode: #464646; /*dark gray*/
-$primary--darkmode: #defcff; /*light gold*/
-$primary-light--darkmode: #eeeeee; /*light gray*/
+$primary--darkmode: #eeeeee; /*light gold*/
+$primary-light--darkmode: #ffffff; /*light gray*/
 $primary-lighter--darkmode: #9f9f9f; /*gray*/
 $shadow--darkmode: 0 8px 16px rgba(226, 226, 226, 0.1);
 
-$alert: #00fbff; /*FSU gold*/
-$info: #683e2e; /*FSU garnet*/
-$info--darkmode: #b0987a; /*FSU garnet lighter shade*/
+$alert: #fbad27;
+$info: #10a2d1;
+$info--darkmode: #b6cae2;
 
 $thumbnail-height: 15em;
 $body-max-width: 1920px;
